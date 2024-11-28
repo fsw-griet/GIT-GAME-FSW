@@ -1,4 +1,4 @@
-# Welcome to the **Level 2** 🐞🌿
+# Welcome to the **Bug Branch** 🐞🌿
 
 **Congratulations on solving the riddle and finding this branch!** 🎉 But the real challenge begins now... 🕵️‍♂️
 
