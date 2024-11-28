@@ -1,1 +1,1 @@
-the first 3 chars of a key: "!ds"
+the remaining chars of a key: "#we"
