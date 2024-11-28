@@ -1,7 +1,3 @@
-Certainly! Here's your message with the added example for rotating the word:
-
----
-
 # git-game
 
 **Welcome to the Game!** 🎮
