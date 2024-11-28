@@ -1,7 +1,3 @@
-Here’s the updated **welcome note** with the level transition:
-
----
-
 # Welcome, Detective! 🕵️‍♂️✨  
 
 **Congratulations on completing Level 2!** 🎉 Your sharp investigation skills have brought you here. 🏆  
