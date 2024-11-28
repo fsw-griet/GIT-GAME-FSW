@@ -1,0 +1,30 @@
+#!/bin/bash
+
+# Path to the final_submit.txt file
+file="final_submit.txt"
+
+# The correct key value to match
+correct_key="d/e/1FA-ITZjUv54-!ds#we"
+
+# Check if the final_submit.txt file exists
+if [[ ! -f "$file" ]]; then
+  echo "Error: $file does not exist."
+  exit 1
+fi
+
+# Read the content of the file
+keys=$(cat "$file")
+
+# Check if the content of the file exactly matches the correct key
+if [[ "$keys" == "$correct_key" ]]; then
+  # If the keys are correct, display the link
+  echo "✅ Keys are correct!"
+  echo "🔗 Here's your link: https://forms.gle/MctUhfwe9CZMXjhy5"
+else
+  # If the keys are incorrect, display an error message
+  echo "❌ Error: The keys are incorrect. Please check the content of $file."
+  exit 1
+fi
+
+# Exit with a success code to allow the commit
+exit 0
