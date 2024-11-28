@@ -5,7 +5,7 @@ This will list all branches, so you can see where you are and find the one you n
 
 Once you've identified your previous branch, use:
 
-git checkout <branch-name>
-Where <branch-name> is the name of the branch you want to return to.
+git checkout branch-name
+Where branch-name is the name of the branch you want to return to.
 
 Good luck, adventurer! 💻✨
