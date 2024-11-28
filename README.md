@@ -6,7 +6,7 @@ Hello, adventurer! 👋
 
 Welcome to **Level 1** of your journey. Your mission begins with solving a riddle that will guide you to the next step in this adventure.
 
-Cipher Quest
+**Cipher Quest**
 
 Guess the word from numbers:
 
@@ -22,4 +22,6 @@ Example 1: BADH → CYGD.
 Example 2: JQXZD → KOUDY.
 Apply the same pattern to your result Y to find the new transformation result, Z.
 
-save the result in level1_submit.txt ans then add,commit the changes.
+save the result Z in level1_submit.txt ans then add,commit the changes.
+
+The next clue will be displayed in your bash terminal after completing the Quest
