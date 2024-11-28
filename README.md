@@ -6,6 +6,8 @@ Hello, adventurer! 👋
 
 Welcome to **Level 1** of your journey. Your mission begins with solving a riddle that will guide you to the next step in this adventure.
 
+## Note : first run the ./setup.sh in your bash terminal
+
 **Cipher Quest**
 
 Guess the word from numbers:
