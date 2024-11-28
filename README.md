@@ -1,7 +1,3 @@
-Here’s the updated welcome note with instructions for the user to move to the branch named after the culprit:
-
----
-
 # Welcome to the **Bug Branch** 🐞🌿
 
 **Congratulations on solving the riddle and finding this branch!** 🎉 But the real challenge begins now... 🕵️‍♂️
