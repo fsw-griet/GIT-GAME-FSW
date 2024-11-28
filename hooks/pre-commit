@@ -7,7 +7,7 @@ CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
 if [ "$CURRENT_BRANCH" == "main" ]; then
   # Only run this part on the main branch
   if [ ! -f "level1_submit.txt" ]; then
-    echo "Error: level1_submit.txt is missing. Please add it before committing."
+    echo "⚠️ Error: level1_submit.txt is missing. Please add it before committing. 📝"
     exit 1
   fi
 
@@ -17,28 +17,30 @@ if [ "$CURRENT_BRANCH" == "main" ]; then
 
   # Check if the answer is correct
   if [ "$ANSWER" != "$CORRECT_ANSWER" ]; then
-    echo "Error: Incorrect answer in level1_submit.txt. Please solve the riddle correctly."
+    echo "❌ Error: Incorrect answer in level1_submit.txt. Please solve the riddle correctly. 🔍"
     exit 1
   fi
 
   # If the answer is correct, display the riddle and reward message
   echo ""
-  echo "Great job! The answer in level1_submit.txt is correct."
+  echo "🎉 Great job! The answer in level1_submit.txt is correct. 🎉"
   echo ""
-  echo "Here is your reward 'd/e/1FA' remember me"
+  echo "🏆 Here is your reward 'd/e/1FA' remember me 💎"
   echo ""
-  echo "solve this riddle:"
+  echo "🧩 solve this riddle: 🧩"
   echo ""
-  echo "I’m the phrase that starts it all,"
-  echo "For programmers big and small."
-  echo "In every language, I make my mark,"
-  echo "A greeting first, to light the spark."
-  echo "What am I?"
+  echo "I’m the phrase that starts it all, 👩‍💻"
+  echo "For programmers big and small. 👨‍💻"
+  echo "In every language, I make my mark, ✍️"
+  echo "A greeting first, to light the spark. 💡"
+  echo "What am I? 🤔"
   echo ""
-  echo "If you find me then go to my branch"
+  echo "If you find me then go to my branch 🌿"
   echo ""
-  echo "Good luck on your journey!"
-
+  echo "Good luck on your journey! 🚀"
+  echo ""
+  echo "👋👋👋"
+  echo ""
 fi
 
 # Exit successfully
