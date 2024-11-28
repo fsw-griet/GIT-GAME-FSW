@@ -13,7 +13,7 @@ if [ "$CURRENT_BRANCH" == "main" ]; then
 
   # Read the answer from the file and strip any newline characters
   ANSWER=$(cat level1_submit.txt | tr -d '\n')
-  CORRECT_ANSWER="ARVFGET"
+  CORRECT_ANSWER="YPTDECR"
 
   # Check if the answer is correct
   if [ "$ANSWER" != "$CORRECT_ANSWER" ]; then
