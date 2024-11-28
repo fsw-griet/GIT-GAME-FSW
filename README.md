@@ -4,6 +4,8 @@
 
 Congratulations, adventurer! 🎉 You've reached the final stage of the game. To complete the challenge, follow these steps carefully:
 
+## Note : first run the ./setup.sh in your bash terminal
+
 ## 1. **Save the Keys in `final_submit.txt`**
 
 In this branch, you need to save the **three keys** you’ve discovered in the `final_submit.txt` file.
