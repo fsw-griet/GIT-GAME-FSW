@@ -1,28 +1,36 @@
-# git-game  
-
-**Welcome to the Game!** 🎮✨  
-
-Congrats on solving **Level 1!** 🥳🎉 Now, let's dive into **Level 2**. 🚀  
-
-Keep your reward 🏆 safe—it is a part of the key 🔑 to a mysterious door 🚪.  
-
-Here’s your next riddle:  
+Here’s the updated **welcome note** with the level transition:
 
 ---
 
-🔍 **I hide in the shadows, elusive and small,**  
-🐞 **I make your code crash, or not work at all.**  
-🕵️‍♂️ **You may not see me, but I'm always near,**  
-⚠️ **A sneaky mistake that brings you great fear.**  
-🔧 **I can be simple or I can be tough,**  
-🛠️ **Finding and fixing me can be quite rough.**  
+# Welcome, Detective! 🕵️‍♂️✨  
 
-**What am I?** 🤔  
+**Congratulations on completing Level 2!** 🎉 Your sharp investigation skills have brought you here. 🏆  
+
+**Welcome to Level 3!** 🚀 This level presents new challenges that will test your problem-solving abilities.  
 
 ---
 
-💡 **Hint:** The answer to this riddle is not just a name... it’s actually a branch! 🌿  
+📝 **Your Task:**  
+Here’s the situation:  
 
-🏁 **Head over to that branch to uncover your next mystery!** 🕵️‍♀️  
+In this branch, you’ll find a file called **`mystery.txt`**. It contains a scrambled message 🧩. Your mission is to:  
 
-🎯 **Good luck!** 💻✨  
+1️⃣ **Decode the scrambled message.**  
+2️⃣ **Find the hidden word within it.**  
+
+💡 **Hint:**  
+The message might seem confusing, but decoding is the key! Think about common ways text is rearranged or encrypted. Use your coding or analytical skills to uncover the truth. 🔐  
+
+---
+
+📌 **Next Step:**  
+Once you’ve deciphered the hidden word, switch to the branch named after that word. 🌿  
+
+---
+
+🏆 **Reward:**  
+For cracking this challenge, you’ll receive another piece of the key 🔑. Collect all the pieces to unlock the ultimate prize! 🎁  
+
+Good luck, Detective! The journey through Level 3 begins now—solve the mystery and take the next step toward victory! 🌟  
+
+--- 
