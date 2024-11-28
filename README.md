@@ -1,29 +1,28 @@
 # git-game
 
-**Welcome to the Game!**
+**Welcome to the Game!** 🎮
 
-Hello, adventurer! 👋
+Congrats on solving Level 1! 🥳 Now, let's dive into **Level 2**.
 
-Welcome to **Level 1** of your journey. Your mission begins with solving a riddle that will guide you to the next step in this adventure.
+Here's your riddle:
 
-## Note : first run the ./setup.sh in your bash terminal
+---
 
-**Cipher Quest**
+I hide in the shadows, elusive and small,  
+I make your code crash, or not work at all.  
+You may not see me, but I'm always near,  
+A sneaky mistake that brings you great fear.  
+I can be simple or I can be tough,  
+Finding and fixing me can be quite rough.  
 
-Guess the word from numbers:
+What am I? 🤔
 
-Numbers: 68, 69, 67, 82, 89, 80, 84.
-Convert each number to its corresponding letter (ASCII code) to get the word X.
-Rotate the word X clockwise:
+---
 
-Rotate the characters of X three times to the right.
-The resulting word is Y.
-Word transformation examples:
+The answer to this riddle is more than just a name... it's actually a branch! 🌿
 
-Example 1: BADH → CYGD.
-Example 2: JQXZD → KOUDY.
-Apply the same pattern to your result Y to find the new transformation result, Z.
+Head over to that branch to uncover your next mystery! 🕵️‍♂️
 
-save the result Z in level1_submit.txt ans then add,commit the changes.
+Good luck! 💻✨
 
-The next clue will be displayed in your bash terminal after completing the Quest
+---
