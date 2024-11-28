@@ -1,28 +1,36 @@
-# git-game  
-
-**Welcome to the Game!** 🎮✨  
-
-Congrats on solving **Level 1!** 🥳🎉 Now, let's dive into **Level 2**. 🚀  
-
-Keep your reward 🏆 safe—it is a part of the key 🔑 to a mysterious door 🚪.  
-
-Here’s your next riddle:  
+Here’s the updated welcome note with instructions for the user to move to the branch named after the culprit:
 
 ---
 
-🔍 **I hide in the shadows, elusive and small,**  
-🐞 **I make your code crash, or not work at all.**  
-🕵️‍♂️ **You may not see me, but I'm always near,**  
-⚠️ **A sneaky mistake that brings you great fear.**  
-🔧 **I can be simple or I can be tough,**  
-🛠️ **Finding and fixing me can be quite rough.**  
+# Welcome to the **Bug Branch** 🐞🌿
 
-**What am I?** 🤔  
+**Congratulations on solving the riddle and finding this branch!** 🎉 But the real challenge begins now... 🕵️‍♂️
 
 ---
 
-💡 **Hint:** The answer to this riddle is not just a name... it’s actually a branch! 🌿  
+📝 **Your Task:**  
+Inside this branch, you’ll find a file named **`code.c`**. Someone has introduced a **bug** 🐛 into the file, causing chaos! Your mission is:
 
-🏁 **Head over to that branch to uncover your next mystery!** 🕵️‍♀️  
+1️⃣ **Identify who introduced the bug.**  
+2️⃣ **Find out what part of the code they modified.**
 
-🎯 **Good luck!** 💻✨  
+💡 **Hint:** To uncover the culprit, you might need to “assign blame” to the contributors of the file. There’s a Git command that shows **who wrote what** in the code. Use it wisely. 🧩
+
+---
+
+📌 **Next Step:**  
+Once you identify the person responsible for the bug, switch to the branch with their **name** as the branch name! 🌿
+
+---
+
+💻 **Pro Tip:**  
+"The history of a file tells a story. Find the command that reveals who made each change to `code.c`. The answer is closer than you think." 🔍
+
+---
+
+🏆 Reward:
+Here’s your reward: **ITZjUv54**. Keep it safe—it’s part of a bigger puzzle! 🔑✨
+
+Good luck, detective! The journey continues... 🚀
+
+---
