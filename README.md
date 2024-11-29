@@ -1,1 +1,1 @@
-i don't like to introduce bugs in my code
+"Oops! Looks like you wandered into the wrong branch, explorer. This isn’t the treasure map you’re looking for! 🗺️ Maybe try git checkout before the Bug finds you.."
